@@ -1,6 +1,10 @@
 # Who I Am
 ## Technically:
 ### Lead Frontend Engineer @ [Haneke Design](https://hanekedesign.com)
+My LinkedIn: [https://www.linkedin.com/in/marcustfernandez/](https://www.linkedin.com/in/marcustfernandez/)
+
+My Personal Site: 🔥 Coming Soon 💯 *(Look, I'm busy, alright.)*
+
 ## Actually:
 ### 🧑🏻‍💻 Frontend Developer obsessed with all things frontend 
 *(Especially React, because it's the best one. Change my mind.)*
@@ -9,7 +13,7 @@
 ### 🧑🏻‍🎨 Ex-Designer who can't bring himself to stop paying $50/mo for the Adobe Creative Suite because "what if I need it".
 *(Are you ever really an "ex-designer", or are you just not getting paid to do it anymore?)*
 ### 🖨️ Ex-Business Owner that has a ton of knowledge on how to run, clean, and perform maintenance on a Large Format printer sitting in the 'ol brain-filing-cabinets, collecting dust. 
-*(at least the business stuff is useful, I guess)*
+*(At least the business stuff is useful, I guess)*
 ### 🤓 Super-nerd that watches software development videos for fun.
 *(It's sad but it's true)*
 ### 🤖 LLM Obsessive, always trying to keep tabs on the latest in the language model space 
