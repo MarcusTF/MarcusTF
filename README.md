@@ -1,7 +1,7 @@
 # Who I Am
 ## Technically:
 ### Lead Frontend Engineer @ [Haneke Design](https://hanekedesign.com)
-My LinkedIn: [https://www.linkedin.com/in/marcustfernandez/](https://www.linkedin.com/in/marcustfernandez/)
+My LinkedIn: [linkedin.com/in/marcustfernandez](https://www.linkedin.com/in/marcustfernandez/)
 
 My Personal Site: 🔥 Coming Soon 💯 *(Look, I'm busy, alright.)*
 
