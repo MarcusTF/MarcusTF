@@ -5,7 +5,7 @@
 Lead Frontend Engineer @ [Haneke Design](https://hanekedesign.com), turning caffeine into code and dreams into deployments.
 
 - [Find me on LinkedIn](https://www.linkedin.com/in/marcustfernandez/)
-- Personal Site Status: Perpetually "Coming Soon" (Like every developer's personal site, amirite?)
+- [Personal Site](https://maarcustf.com)
 
 ## The Real Story
 
