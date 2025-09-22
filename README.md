@@ -2,7 +2,7 @@
 
 ## The Professional Side
 
-Lead Frontend Engineer @ [Haneke Design](https://hanekedesign.com), turning caffeine into code and dreams into deployments.
+Frontend Engineer, turning caffeine into code and dreams into deployments.
 
 - [Find me on LinkedIn](https://www.linkedin.com/in/marcustfernandez/)
 - [Personal Site](https://maarcustf.com)
